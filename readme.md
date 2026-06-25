@@ -7,6 +7,8 @@
 # Запуск
 Запуск происходит через файл `main.py`
 
++ Для сброса поля игры нажмите `Пробел`
+
 <img width="953" height="632" alt="Скриншот UI программы" src="https://github.com/user-attachments/assets/0a240ed6-be5a-4f1c-a0f5-473d677c682c" />
 
 # Анализ
